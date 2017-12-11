@@ -24,6 +24,9 @@ Note: When you're done, submit a PR.
 5. How could you organize your code to follow the MVC design pattern in your Quantified Self project?
   Node-Server;  Using JS/Node/Express Routing prototype.  Breaking a whole load of logic out of the server.  Lighten the Server to minimalistic amounts, in attempts to abstract and hide as much of the logic that was being used.  Its ugly but has/had a plan
   
+
+
+
 6. How do you execute raw SQL in node?
   DB-Variable-assigned-to-the-DB.raw('input your sql string') 
   

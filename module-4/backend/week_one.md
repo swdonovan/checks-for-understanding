@@ -11,10 +11,11 @@ Note: When you're done, submit a PR.
  PryJS, Debugger, Console, Node, node debug
  
 3. What are some tools you need in order to unit test your JavaScript?
+
  Chai and Mocha
  
 4. What is the syntax for invoking a function?
-  Function name
+  Function name and parens
 
 5. What's `this` in JavaScript?
   The abstract objects 'self'/attributes of object
